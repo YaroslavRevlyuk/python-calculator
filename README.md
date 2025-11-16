@@ -22,5 +22,4 @@
 1. Клонируй репозиторий:
 ```bash
 
-git clone https://github.com/YaroslavRevlyuk/python_calculator.git
-```
+git clone https://github.com/YaroslavRevlyuk/python-calculator.git
